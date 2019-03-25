@@ -1,0 +1,6 @@
+https://getbootstrap.com/docs/4.3/components/carousel/
+
+
+tarea
+
+- que es firebase
